@@ -175,7 +175,7 @@ export default observer(() => {
                                 </CategoryButton>
                             </Link>
                             <a
-                                href="https://insrt.uk/donate"
+                                href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
                                 target="_blank"
                                 rel="noreferrer">
                                 <CategoryButton
